@@ -1,6 +1,6 @@
 # Prueba
 Este proyecto es una prueba
 ##Este es mi proyecto
-````bash
+```bash
   HOLA A TODOS
-````
+```
